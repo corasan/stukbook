@@ -4,6 +4,8 @@ source 'https://rubygems.org'
 gem 'twitter-bootstrap-rails'
 # Simple form
 gem 'simple_form'
+# Devise
+gem 'devise'
 
 
 
