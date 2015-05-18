@@ -6,6 +6,8 @@ gem 'twitter-bootstrap-rails'
 gem 'simple_form'
 # Devise
 gem 'devise'
+# Gravatar
+gem 'gravatarify', '~> 3.0.0'
 
 
 
